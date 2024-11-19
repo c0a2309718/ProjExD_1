@@ -1,6 +1,7 @@
 import os
 import sys
 import pygame as pg
+import math
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
